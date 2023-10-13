@@ -8,10 +8,12 @@
     "start": "next start",
     "lint": "next lint"
   },
+    "optionalDependencies": {
+    "canvas": "^2.11.2"  
+  },
   "dependencies": {
     "@babel/cli": "^7.22.15",
     "bufferutil": "^4.0.7",
-    "canvas": "^2.11.2",
     "eslint": "^8.47.0",
     "eslint-config-next": "^13.4.18",
     "eslint-plugin-next": "^0.0.0",
