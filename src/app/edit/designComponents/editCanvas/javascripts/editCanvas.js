@@ -1,7 +1,7 @@
 'use client'
 import React, { useEffect, useRef, useState } from 'react';
 import '../styles/EditCanvas.css';
-import fabric;
+import fabric,
 import TextEditor from './textEditor';
 import { MdOutlineVerticalAlignCenter } from 'react-icons/md';
 import { AiFillDelete, AiOutlineAlignCenter, AiOutlineAlignLeft, AiOutlineAlignRight, AiOutlineVerticalAlignBottom, AiOutlineVerticalAlignTop } from 'react-icons/ai';
